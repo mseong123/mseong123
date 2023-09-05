@@ -1,6 +1,4 @@
-# Web development
-
-### Technology stack:
+## Web Development Technology stack:
 Language:
 
 <p float="left">
@@ -12,9 +10,21 @@ Language:
 Framework:
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" alt="REACT"/>
-  
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" alt="React"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" alt="Redux"/> 
 </p>
+
+Database:
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50" alt="MongoDB"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" alt="MySQL"/>
+</p>
+
+Unit Testing:
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" width="50" alt="Chai"/>
+</p>
+
 
 
 
