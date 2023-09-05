@@ -44,5 +44,5 @@ Notable (and completed) 42 projects:
 - [minishell](https://github.com/mseong123/minishell) Project duration: 4 weeks
 - [so_long](https://github.com/mseong123/so_long) Project duration: 1 week
 - [philosophers](https://github.com/mseong123/philosophers) Project duration: 1 week
-- [push_swap](https://github.com/mseong123/push_swap) Project duration: 1 week
+- [push_swap](https://github.com/mseong123/push_swap) Project duration: 2 weeks
 
