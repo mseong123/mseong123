@@ -5,7 +5,7 @@
 
 
 Technology stack:
-[HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
+![HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
 
 
 # 42 stats (C, C++ and UNIX): 
