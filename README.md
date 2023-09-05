@@ -28,9 +28,8 @@
     <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" width="50" alt="Mocha" title="Mocha"/>
 </div>
 <div>
-    <p>Authentication and Sessions:</p>
-    <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" width="50" alt="Chai" title="Chai"/>
-    <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" width="50" alt="Mocha" title="Mocha"/>
+    <p>Authentication:</p>
+    <img src="https://github.com/mseong123/assets/blob/master/passportjs.png" width="50" alt="PassportJS" title="PassportJS"/>
 </div>
 
 
