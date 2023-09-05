@@ -38,4 +38,6 @@
 
 Completed projects:
 - [cub3D](https://github.com/mseong123/cub3D) Project duration: 3 weeks
+- [minishell](https://github.com/mseong123/minishell) Project duration: 4 weeks
 - [so_long](https://github.com/mseong123/so_long) Project duration: 1 week
+
