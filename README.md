@@ -33,26 +33,5 @@
     <img src="https://github.com/mseong123/assets/blob/master/passportjs.png" width="50" alt="PassportJS" title="PassportJS"/>
 </div>
 
-
-
-
-
-
-
-
-
-# 42 stats (C, C++ and UNIX): 
-
-Here are some ideas to get you started:
-
-- My full stack web development portfolio 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![mseong123's 42 stats](https://badge.mediaplus.ma//<username>)](https://github.com/oakoudad/badge42)
+# I'm currently enrolled in 42KL (learning C, C++ and UNIX):
+![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)
