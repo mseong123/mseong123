@@ -10,6 +10,7 @@
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" alt="React" title="React"/>
     <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50" alt="Redux" title="Redux"/>
     <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" alt="Bootstrap" title="Bootstrap"/> 
+    <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="50" alt="Sass" title="Sass"/> 
 </div>
 <div>
     <p>BackEnd:</p>
@@ -22,7 +23,12 @@
     <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" alt="MySQL" title="MySQL"/>
 </div>
 <div>
-    <p>Database:</p>
+    <p>Unit Testing:</p>
+    <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" width="50" alt="Chai" title="Chai"/>
+    <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" width="50" alt="Mocha" title="Mocha"/>
+</div>
+<div>
+    <p>Authentication and Sessions:</p>
     <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" width="50" alt="Chai" title="Chai"/>
     <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" width="50" alt="Mocha" title="Mocha"/>
 </div>
