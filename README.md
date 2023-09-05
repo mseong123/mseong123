@@ -1,10 +1,10 @@
-### Hi there 👋
+- Full stack project portfolio
 
-<!--
-**mseong123/mseong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 42 stats (C, C++ and UNIX): 
 
 Here are some ideas to get you started:
 
+- My full stack web development portfolio 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![mseong123's 42 stats](https://badge.mediaplus.ma//<username>)](https://github.com/oakoudad/badge42)
