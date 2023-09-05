@@ -33,5 +33,8 @@
     <img src="https://github.com/mseong123/assets/blob/master/passportjs.png" width="50" alt="PassportJS" title="PassportJS"/>
 </div>
 
-## Currently enrolled in 42KL (learning C, C++ and UNIX):
+## Currently enrolled in [42KL](https://42kl.edu.my/) (learning C, C++ and UNIX):
 ![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)
+
+Finished project:
+- [cub3D](https://github.com/mseong123/cub3D) Project duration: 3 weeks
