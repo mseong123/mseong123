@@ -8,6 +8,7 @@
   </div>
 
   <div float="left">
+    <p>Framework:</p>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" alt="React"/>
     <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50" alt="Redux"/>
     <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" alt="Bootstrap"/> 
