@@ -52,13 +52,9 @@
 | 2 | [pipex](https://github.com/mseong123/pipex/tree/master) | Create a C program that replicates bash command pipe behavior using C system/API calls | 1 week | ✅ |
 | 2 | [so_long](https://github.com/mseong123/so_long) | Create a small 2D game with texture and sprites using C and graphical library MiniLibx | 2 week | ✅ |
 | 2 | [push_swap](https://github.com/mseong123/push_swap) | Create a program and algorithm sorts a list of integer using 2 stacks using the least possible operations. Introduce concept of Big O notation and time complexity common in Computer Science | 1 week | ✅ |
-| 3 | [philosophers](https://github.com/mseong123/philosophers) | | 1 week | ✅ |
+| 3 | [philosophers](https://github.com/mseong123/philosophers) | Create a program that simulate the philosopher dining problem in Computer Science that deals with concurrency (threads) and mutexes using C api/system calls | 1 week | ✅ |
+| 3 | [minishell](https://github.com/mseong123/minishell) | Create a 'minishell' that imitates the behavior of bash shell using C api/system calls | 3 weeks | ✅ |
+| 4 | [cub3d](https://github.com/mseong123/cub3D) | Create a 3D game that utilises the concept of 'raycasting' used in game dev | 3 weeks | ✅ |
+| 5 | [c++](https://github.com/mseong123/CPP_modules) | Basics of C++ object oriented programming paradigm | 4 weeks | ✅ |
 
-
-- [cub3D](https://github.com/mseong123/cub3D) Project duration: 3 weeks
-- [minishell](https://github.com/mseong123/minishell) Project duration: 4 weeks
-- [so_long](https://github.com/mseong123/so_long) Project duration: 1 week
-- [philosophers](https://github.com/mseong123/philosophers) Project duration: 1 week
-- [push_swap](https://github.com/mseong123/push_swap) Project duration: 2 weeks
-- [c++](https://github.com/mseong123/CPP_modules/tree/main) Project duration: 4 weeks
 
