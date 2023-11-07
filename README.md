@@ -36,7 +36,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" width="30">, <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" width="30"> and UNIX
 - Currently enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
-- Level 5 out of 9 (Core Programme)
+- Level 6.92 out of 9 (Core Programme)
 
 ![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)
 
@@ -46,4 +46,5 @@ Notable (and completed) 42 projects:
 - [so_long](https://github.com/mseong123/so_long) Project duration: 1 week
 - [philosophers](https://github.com/mseong123/philosophers) Project duration: 1 week
 - [push_swap](https://github.com/mseong123/push_swap) Project duration: 2 weeks
+- [c++] Project duration: 4 weeks
 
