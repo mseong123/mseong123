@@ -40,8 +40,7 @@
 
 ![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)
 
-### 42 projects:
-
+### 42 common core projects:
 
 | Level | Project | Topics | Duration | Status |
 |:---:|---|---|---|:---:|
@@ -59,4 +58,7 @@
 | 5 | [c++](https://github.com/mseong123/CPP_modules) | Basics of C++ object oriented programming paradigm | 4 weeks | ✅ |
 | 5 | [Inception](https://github.com/mseong123/Inception) | Building and running services in Docker containers | 2 weeks | ✅ |
 
+### 42 specialisation projects:
+| Level | Project | Topics | Duration | Status |
+|:---:|---|---|---|:---:|
 
