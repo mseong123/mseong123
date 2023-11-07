@@ -46,5 +46,5 @@ Notable (and completed) 42 projects:
 - [so_long](https://github.com/mseong123/so_long) Project duration: 1 week
 - [philosophers](https://github.com/mseong123/philosophers) Project duration: 1 week
 - [push_swap](https://github.com/mseong123/push_swap) Project duration: 2 weeks
-- [c++] Project duration: 4 weeks
+- [c++](https://github.com/mseong123/CPP_modules/tree/main) Project duration: 4 weeks
 
