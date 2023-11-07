@@ -1,5 +1,5 @@
 ## Web Development
-### [Personal Portfolio Page](https://mseong.my)
+### [Personal Portfolio Page](https://mseong.my) (click for link to website)
 ### Technology Stack:
 <div>
     <p>Language:</p>
