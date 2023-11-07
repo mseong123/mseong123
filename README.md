@@ -49,6 +49,8 @@
 | 1 | [ft_printf](https://github.com/mseong123/ft_printf) | Recreate `printf` libc function | 3 days | ✅ |
 | 1 | [get_next_line](https://github.com/mseong123/get_next_line/tree/master) | Creating a C function that allows you to read file content line by line | 1 week | ✅ |
 | 1 | [born2beroot](https://github.com/mseong123/born2beroot/tree/master) | Setting up a virtual machine running a linux distro and installing services | 1 week | ✅ |
+| 2 | [pipex](https://github.com/mseong123/pipex/tree/master) | Replicate bash command pipe behavior using C system/API calls | 1 week | ✅ |
+| 2 | [so_long](https://github.com/mseong123/so_long) | | 1 week | ✅ |
 
 - [cub3D](https://github.com/mseong123/cub3D) Project duration: 3 weeks
 - [minishell](https://github.com/mseong123/minishell) Project duration: 4 weeks
