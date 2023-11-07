@@ -40,7 +40,9 @@
 
 ![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)
 
-Notable (and completed) 42 projects:
+42 projects:
+| Level | Project | Topics | Duration | Status |
+
 - [cub3D](https://github.com/mseong123/cub3D) Project duration: 3 weeks
 - [minishell](https://github.com/mseong123/minishell) Project duration: 4 weeks
 - [so_long](https://github.com/mseong123/so_long) Project duration: 1 week
