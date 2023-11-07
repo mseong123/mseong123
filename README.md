@@ -45,7 +45,7 @@
 
 | Level | Project | Topics | Duration | Status |
 |-------|---------|--------|----------|--------|
-|   1   |         |        |          |        |
+|   1   | [libft] (https://github.com/mseong123/libft/tree/master)| Create C functions and compile into static library using Makefile to be used in future 42 projects | 1 week | Completed 125% |
 
 - [cub3D](https://github.com/mseong123/cub3D) Project duration: 3 weeks
 - [minishell](https://github.com/mseong123/minishell) Project duration: 4 weeks
