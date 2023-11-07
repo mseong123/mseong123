@@ -57,5 +57,6 @@
 | 4 | [cub3d](https://github.com/mseong123/cub3D) | Create a 3D game that utilises the concept of 'raycasting' used in game dev | 3 weeks | ✅ |
 | 4 | [netpractice](https://github.com/mseong123/netpractice) | Introduce concept of computer networking and configuration of networks using IP address and subnet mask | 3 days | ✅ |
 | 5 | [c++](https://github.com/mseong123/CPP_modules) | Basics of C++ object oriented programming paradigm | 4 weeks | ✅ |
+| 5 | [Inception](https://github.com/mseong123/Inception) | Building and running services in Docker containers | 2 weeks | ✅ |
 
 
