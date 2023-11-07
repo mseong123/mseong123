@@ -44,7 +44,7 @@
 
 
 | Level | Project | Topics | Duration | Status |
-|:---:|---|---|---|---|
+|:---:|---|---|---|:---:|
 | 0 | [libft](https://github.com/mseong123/libft/tree/master)| Create C functions and compile into static library using Makefile to be used in future 42 projects | 1 week | ✅ |
 | 1 | [ft_printf](https://github.com/mseong123/ft_printf) | Recreate `printf` libc function | 3 days | ✅ |
 | 1 | [get_next_line](https://github.com/mseong123/get_next_line/tree/master) | Creating a C function that allows you to read file content line by line | 1 week | ✅ |
