@@ -45,6 +45,7 @@
 
 | Level | Project | Topics | Duration | Status |
 |-------|---------|--------|----------|--------|
+| 1     |
 
 - [cub3D](https://github.com/mseong123/cub3D) Project duration: 3 weeks
 - [minishell](https://github.com/mseong123/minishell) Project duration: 4 weeks
