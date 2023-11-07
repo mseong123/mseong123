@@ -59,6 +59,7 @@
 | 5 | [Inception](https://github.com/mseong123/Inception) | Building and running services in Docker containers | 2 weeks | ✅ |
 
 ### 42 specialisation projects:
-| Level | Project | Topics | Duration | Status |
-|:---:|---|---|---|:---:|
+| Project | Topics | Duration | Status |
+|---|---|---|:---:|
+|[Python for Data Science](https://github.com/mseong123/python_data_science/tree/master)| Basics of python language and libraries for data science | 1 week | ✅ |
 
