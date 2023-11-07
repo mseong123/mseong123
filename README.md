@@ -55,7 +55,7 @@
 | 3 | [philosophers](https://github.com/mseong123/philosophers) | Create a program that simulate the philosopher dining problem in Computer Science that deals with concurrency (threads) and mutexes using C api/system calls | 1 week | ✅ |
 | 3 | [minishell](https://github.com/mseong123/minishell) | Create a 'minishell' that imitates the behavior of bash shell using C api/system calls | 3 weeks | ✅ |
 | 4 | [cub3d](https://github.com/mseong123/cub3D) | Create a 3D game that utilises the concept of 'raycasting' used in game dev | 3 weeks | ✅ |
-| 4 | [netpractice](https://github.com/mseong123/netpractice) | Introduce concept of computer networking and configuration of networks | 3 days | ✅ |
+| 4 | [netpractice](https://github.com/mseong123/netpractice) | Introduce concept of computer networking and configuration of networks using IP address and subnet mask | 3 days | ✅ |
 | 5 | [c++](https://github.com/mseong123/CPP_modules) | Basics of C++ object oriented programming paradigm | 4 weeks | ✅ |
 
 
