@@ -36,7 +36,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" width="30"> , <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" width="30"> UNIX and SysAdmin
 - Currently enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
-- Level 6.92 out of 9 (Core Programme)
+- Level 9.39 out of 11 (Core Programme)
 
 ![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)
 
@@ -50,7 +50,7 @@
 | 1 | [born2beroot](https://github.com/mseong123/born2beroot/tree/master) | Setting up a virtual machine running a linux distro and installing services | 1 week | ✅ |
 | 2 | [pipex](https://github.com/mseong123/pipex/tree/master) | Create a C program that replicates bash command pipe behavior using C system/API calls | 1 week | ✅ |
 | 2 | [so_long](https://github.com/mseong123/so_long) | Create a small 2D game with texture and sprites using C and graphical library MiniLibx | 2 week | ✅ |
-| 2 | [push_swap](https://github.com/mseong123/push_swap) | Create a program and algorithm sorts a list of integer using 2 stacks using the least possible operations. Introduce concept of Big O notation and time complexity common in Computer Science | 1 week | ✅ |
+| 2 | [push_swap](https://github.com/mseong123/push_swap) | Create a program and algorithm sorts a list of integer using 2 stacks using the least possible operations. Introduce concept of Big O notation and time complexity common in Computer Science | 2 week | ✅ |
 | 3 | [philosophers](https://github.com/mseong123/philosophers) | Create a program that simulate the philosopher dining problem in Computer Science that deals with concurrency (threads) and mutexes using C api/system calls | 1 week | ✅ |
 | 3 | [minishell](https://github.com/mseong123/minishell) | Create a 'minishell' that imitates the behavior of bash shell using C api/system calls | 3 weeks | ✅ |
 | 4 | [cub3d](https://github.com/mseong123/cub3D) | Create a 3D game that utilises the concept of 'raycasting' used in game dev | 3 weeks | ✅ |
