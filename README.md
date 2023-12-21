@@ -38,7 +38,7 @@
 - Currently enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
 - Level 9.39 out of 11 (Core Programme)
 
-![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)
+<!--![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)-->
 
 ### 42 common core projects:
 
