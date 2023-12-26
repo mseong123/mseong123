@@ -34,8 +34,11 @@
     <img src="https://github.com/mseong123/assets/blob/master/passportjs.png" width="50" alt="PassportJS" title="PassportJS"/>
 </div>
 
+
+
 ## AWS Cloud Practitioner Certificate
-### [Cert verification link](https://aw.certmetrics.com/amazon/public/verification.aspx) validation number: B8JEHTTJ5EBQ1XSE
+### [Cert verification link](https://aw.certmetrics.com/amazon/public/verification.aspx) 
+validation number: B8JEHTTJ5EBQ1XSE
 
 
 ## <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" width="30"> , <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" width="30"> UNIX and SysAdmin
