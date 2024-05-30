@@ -42,7 +42,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 
 ## <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" width="30"> , <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" width="30"> UNIX and SysAdmin
 - Currently enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
-- Level 9.39 out of 11 (Core Programme)
+- Finished Core Program (Level 11.91) Currently enrolled in Specialisation Program doing Machine Learning/AI.
 
 <!--![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)-->
 
@@ -64,6 +64,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 | 5 | [c++](https://github.com/mseong123/CPP_modules) | Basics of C++ object oriented programming paradigm | 4 weeks | ✅ |
 | 5 | [Inception](https://github.com/mseong123/Inception) | Building and running services in Docker containers | 2 weeks | ✅ |
 | 5 | [webserv](https://github.com/mseong123/webserv) | Building a webserver (with functionalities similar to NGINX) using c++  | 4 weeks | ✅ |
+| 6 | [webserv](https://github.com/mseong123/ft_transcendence_42) | Building a web-based multiplayer 3D-PONG game  | 3 months | ✅ |
 
 ### 42 specialisation projects:
 | Project | Topics | Duration | Status |
