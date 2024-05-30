@@ -64,7 +64,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 | 5 | [c++](https://github.com/mseong123/CPP_modules) | Basics of C++ object oriented programming paradigm | 4 weeks | ✅ |
 | 5 | [Inception](https://github.com/mseong123/Inception) | Building and running services in Docker containers | 2 weeks | ✅ |
 | 5 | [webserv](https://github.com/mseong123/webserv) | Building a webserver (with functionalities similar to NGINX) using c++  | 4 weeks | ✅ |
-| 6 | [webserv](https://github.com/mseong123/ft_transcendence_42) | Building a web-based multiplayer 3D-PONG game  | 3 months | ✅ |
+| 6 | [ft_transcendence](https://github.com/mseong123/ft_transcendence_42) | Building a web-based multiplayer 3D-PONG game  | 3 months | ✅ |
 
 ### 42 specialisation projects:
 | Project | Topics | Duration | Status |
