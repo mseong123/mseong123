@@ -70,4 +70,5 @@ validation number: B8JEHTTJ5EBQ1XSE
 | Project | Topics | Duration | Status |
 |---|---|---|:---:|
 |[Python for Data Science](https://github.com/mseong123/python_data_science/tree/master)| Basics of python language and libraries for data science | 1 week | ✅ |
+|[ft_linear_regression](https://github.com/mseong123/ft_linear_regression/tree/master)| Introduction to Gradient Descent - a core Machine Learning optimisation algorithm - to solve linear regression  | 3 week | ✅ |
 
