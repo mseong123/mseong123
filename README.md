@@ -71,5 +71,5 @@ validation number: B8JEHTTJ5EBQ1XSE
 |---|---|---|:---:|
 |[Python for Data Science](https://github.com/mseong123/python_data_science/tree/master)| Basics of python language and libraries for data science | 1 week | ✅ |
 |[ft_linear_regression](https://github.com/mseong123/ft_linear_regression/tree/master)| Introduction to Gradient Descent - a core Machine Learning optimisation algorithm - to solve linear regression  | 3 weeks | 
-|[matrix]([git@github.com:mseong123/matrix.git](https://github.com/mseong123/matrix))| Enter the Matrix - Everything about linear algebra  | 4 weeks | ✅ |
+|[matrix](git@github.com:mseong123/matrix.git](https://github.com/mseong123/matrix) | Enter the Matrix - The low-down on Linear Algebra  | 4 weeks | ✅ |
 
