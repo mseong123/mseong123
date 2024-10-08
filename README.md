@@ -1,4 +1,4 @@
-## Web Development
+## Full Stack Web Development
 ### [Personal Portfolio Page](https://mseong.my) (click for link to website)
 ### Technology Stack:
 <div>
@@ -17,7 +17,8 @@
 <div>
     <p>BackEnd:</p>
     <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50" alt="NodeJS" title="NodeJS"/>
-    <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50" alt="ExpressJS" title="ExpressJS"/> 
+    <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50" alt="ExpressJS" title="ExpressJS"/>
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 </div>
 <div>
     <p>Database:</p>
@@ -35,14 +36,15 @@
 </div>
 
 
+
 ## AWS Cloud Practitioner Certificate
 ### [Cert verification link](https://aw.certmetrics.com/amazon/public/verification.aspx) 
 validation number: B8JEHTTJ5EBQ1XSE
 
 
-## <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" width="30"> , <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" width="30"> UNIX and SysAdmin
+## C, C++, Object Oriented Programming, DevOps, Shell, UNIX and SysAdmin
 - Currently enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
-- Finished Core Program (Level 12.25) Currently enrolled in Specialisation Program doing Machine Learning/AI.
+- Finished Core Program ((Level 12.25)
 
 <!--![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)-->
 
@@ -66,10 +68,16 @@ validation number: B8JEHTTJ5EBQ1XSE
 | 5 | [webserv](https://github.com/mseong123/webserv) | Building a webserver (with functionalities similar to NGINX) using c++  | 4 weeks | ✅ |
 | 6 | [ft_transcendence](https://github.com/mseong123/ft_transcendence_42) | Building a full stack web-based multiplayer 3D-PONG game  | 3 months | ✅ |
 
+## Python, Numpy, Matplotlib, Pandas, Scikit-Learn
+Currently enrolled in 42 Specialisation Program doing Machine Learning/AI.
+
 ### 42 specialisation projects:
 | Project | Topics | Duration | Status |
 |---|---|---|:---:|
 |[Python for Data Science](https://github.com/mseong123/python_data_science/tree/master)| Basics of python language and libraries for data science | 1 week | ✅ |
 |[ft_linear_regression](https://github.com/mseong123/ft_linear_regression/tree/master)| Introduction to Gradient Descent - a core Machine Learning optimisation algorithm - to solve linear regression  | 3 weeks | ✅ | 
 |[matrix](https://github.com/mseong123/matrix) | Enter the Matrix - The absolute low-down on Linear Algebra  | 4 weeks | ✅ |
+
+## Web3 blockchain
+Participated and won in a number of Web3 hackathons
 
