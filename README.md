@@ -80,8 +80,11 @@ Currently enrolled in 42 Specialisation Program doing Machine Learning/AI.
 |[matrix](https://github.com/mseong123/matrix) | Enter the Matrix - The absolute low-down on Linear Algebra  | 4 weeks | ✅ |
 
 ## Web3 blockchain
-| Project | Topics | Tech Stack | Status |
+
+Web3 hackathons
+
+| Project | Topics | Tech Stack | Hackthon | Status | 
 |---|---|---|:---:|
-|[Crypto Will](https://github.com/mseong123/crypto_will)| A blockchain-based platform that securely stores encrypted documents and manages the distribution of assets | 1) Move - smart contract language 2) Sui blockchain tools 3) Vite - dev tool for frontend | 1st Runner-up for best dapp on Sui blockchain track |
-|[Crypto Survey](https://github.com/mseong123/ethkl-cat-soup)| A blockchain base survey platform that is tamper proof, secure, highly scalable and transparent with digital verification of identity.| Solidity Language for Ethereum Smart Contract, Hardhat, GraphQL, The Graph studio, WorldCoin for Digital verification, ScrollEVM, NextJS | First Prize for TheGraph track, pool prize for Deployment on Scroll and WorldCoin | 
+|[Crypto Will](https://github.com/mseong123/crypto_will)| A blockchain-based platform that securely stores encrypted documents and manages the distribution of assets | 1) Move - smart contract language 2) Sui blockchain tools 3) Vite - dev tool for frontend | Bridge3 GrowthCharger hackathon in conjuntion with Malaysian Blockchain Week | 1st Runner-up for best dapp on Sui blockchain track |
+|[Crypto Survey](https://github.com/mseong123/ethkl-cat-soup)| A blockchain base survey platform that is tamper proof, secure, highly scalable and transparent with digital verification of identity.| Solidity Language for Ethereum Smart Contract, Hardhat, GraphQL, The Graph studio, WorldCoin for Digital verification, ScrollEVM, NextJS | EthKL 2024 hackathon | First Prize for TheGraph track, pool prize for Deployment on Scroll and WorldCoin | 
 
