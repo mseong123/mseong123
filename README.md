@@ -42,7 +42,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 
 ## <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" width="30"> , <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" width="30"> UNIX and SysAdmin
 - Currently enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
-- Finished Core Program (Level 11.91) Currently enrolled in Specialisation Program doing Machine Learning/AI.
+- Finished Core Program (Level 12.25) Currently enrolled in Specialisation Program doing Machine Learning/AI.
 
 <!--![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)-->
 
@@ -70,5 +70,6 @@ validation number: B8JEHTTJ5EBQ1XSE
 | Project | Topics | Duration | Status |
 |---|---|---|:---:|
 |[Python for Data Science](https://github.com/mseong123/python_data_science/tree/master)| Basics of python language and libraries for data science | 1 week | ✅ |
-|[ft_linear_regression](https://github.com/mseong123/ft_linear_regression/tree/master)| Introduction to Gradient Descent - a core Machine Learning optimisation algorithm - to solve linear regression  | 3 week | ✅ |
+|[ft_linear_regression](https://github.com/mseong123/ft_linear_regression/tree/master)| Introduction to Gradient Descent - a core Machine Learning optimisation algorithm - to solve linear regression  | 3 weeks | 
+|[matrix]([git@github.com:mseong123/matrix.git](https://github.com/mseong123/matrix))| Enter the Matrix - Everything about linear algebra  | 4 weeks | ✅ |
 
