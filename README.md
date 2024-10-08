@@ -44,7 +44,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 
 
 ## C, C++, Object Oriented Programming, DevOps, Shell, UNIX and SysAdmin
-- Currently enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
+- Enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
 - Finished Core Program ((Level 12.25)
 
 <!--![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)-->
