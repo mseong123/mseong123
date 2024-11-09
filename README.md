@@ -44,7 +44,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 
 
 ## C, C++, Object Oriented Programming, DevOps, Shell, UNIX and SysAdmin
-- Enrolled in [42 Malaysia - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
+- Enrolled in [42 Kuala Lumpur - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
 - Finished Core Program ((Level 12.25)
 
 <!--![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)-->
@@ -78,7 +78,8 @@ Currently enrolled in 42 Specialisation Program doing Machine Learning/AI.
 |[Python for Data Science](https://github.com/mseong123/python_data_science/tree/master)| Basics of python language and libraries for data science | 1 week | ✅ |
 |[ft_linear_regression](https://github.com/mseong123/ft_linear_regression/tree/master)| Introduction to Gradient Descent - a core Machine Learning optimisation algorithm - to solve linear regression  | 3 weeks | ✅ | 
 |[matrix](https://github.com/mseong123/matrix) | Enter the Matrix - The absolute low-down on Linear Algebra  | 4 weeks | ✅ |
-|[dslr](https://github.com/mseong123/dslr) | Data Science Logistic Regression  | 3 weeks | ✅ |
+|[dslr](https://github.com/mseong123/dslr) | Data Science Logistic Regression - Create a logistic regression model to classify students in Hogswarth Academy. Project coded using Python from scratch without use of ML libraries and frameworks | 3 weeks | ✅ |
+|[multilayer-perceptron](https://github.com/mseong123/multilayer-perceptron) | Design and Train a Neural Network and Deep learning model to classify if a tumor is benign or malignant based on breast cancer dataset from Wisconsin. Project coded using Python from scratch without use of ML libraries or frameworks | 2 weeks | ✅ | 
 
 ## Web3 blockchain
 
