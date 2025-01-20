@@ -45,7 +45,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 
 ## C, C++, Object Oriented Programming, DevOps, Shell, UNIX and SysAdmin
 - Enrolled in [42 Kuala Lumpur - Sunway Education Group](https://42kl.edu.my/) studying Computer Science.
-- Finished Core Program ((Level 12.25)
+- Finished Core Program
 
 <!--![melee's 42 stats](https://badge.mediaplus.ma/binary/melee?1337Badge=off&UM6P=off)-->
 
@@ -70,7 +70,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 | 6 | [ft_transcendence](https://github.com/mseong123/ft_transcendence_42) | Building a full stack web-based multiplayer 3D-PONG game  | 3 months | ✅ |
 
 ## Python, Numpy, Matplotlib, Pandas, Scikit-Learn
-Currently enrolled in 42 Specialisation Program doing Machine Learning/AI.
+Currently enrolled in 42 Specialisation Program doing Machine Learning/AI. (Level 13.12)
 
 ### 42 specialisation projects:
 | Project | Topics | Duration | Status |
@@ -80,6 +80,9 @@ Currently enrolled in 42 Specialisation Program doing Machine Learning/AI.
 |[matrix](https://github.com/mseong123/matrix) | Enter the Matrix - The absolute low-down on Linear Algebra  | 4 weeks | ✅ |
 |[dslr](https://github.com/mseong123/dslr) | Data Science Logistic Regression - Create a logistic regression model to classify students in Hogswarth Academy. Project coded using Python from scratch without use of ML libraries and frameworks | 3 weeks | ✅ |
 |[multilayer-perceptron](https://github.com/mseong123/multilayer-perceptron) | Design and Train a Neural Network and Deep learning model to classify if a tumor is benign or malignant based on breast cancer dataset from Wisconsin. Project coded using Python from scratch without use of ML libraries or frameworks | 2 weeks | ✅ | 
+|[total-perspective-vortex](https://github.com/mseong123/total-perspective-vortex) | Implement a brain computer interface program using electroencephalogram (EEG) data. Involves: 
+- data filtering and feature engineering using MNE neural library(Fourier Transform for signal processing). - Dimensionality Reduction using Principal Component Analysis (PCA) | 7 weeks | ✅ | 
+
 
 ## Web3 blockchain
 
