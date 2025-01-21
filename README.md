@@ -70,7 +70,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 | 6 | [ft_transcendence](https://github.com/mseong123/ft_transcendence_42) | Building a full stack web-based multiplayer 3D-PONG game  | 3 months | ✅ |
 
 ## Python, Numpy, Matplotlib, Pandas, Scikit-Learn
-Currently enrolled in 42 Specialisation Program doing Machine Learning/AI. (Level 13.12)
+Currently enrolled in 42 Specialisation Program doing Machine Learning/AI. (Level 13.51)
 
 ### 42 specialisation projects:
 | Project | Topics | Duration | Status |
