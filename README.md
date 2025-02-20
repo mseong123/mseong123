@@ -81,6 +81,8 @@ Currently enrolled in 42 Specialisation Program doing Machine Learning/AI. (Leve
 |[dslr](https://github.com/mseong123/dslr) | Data Science Logistic Regression - Create a logistic regression model to classify students in Hogswarth Academy. Project coded using Python from scratch without use of ML libraries and frameworks | 3 weeks | ✅ |
 |[multilayer-perceptron](https://github.com/mseong123/multilayer-perceptron) | Design and Train a Neural Network and Deep learning model to classify if a tumor is benign or malignant based on breast cancer dataset from Wisconsin. Project coded using Python from scratch without use of ML libraries or frameworks | 2 weeks | ✅ | 
 |[total-perspective-vortex](https://github.com/mseong123/total-perspective-vortex) | Implement a brain computer interface program using electroencephalogram (EEG) data. 1) data filtering and feature engineering (Fourier Transform for signal processing). 2) Dimensionality Reduction using Principal Component Analysis (PCA) 3) Data processing pipeline 4) Cross Kfold validation 5) Decision tree classifier implementation using Python from scratch without use of ML libraries or frameworks. | 7 weeks | ✅ | 
+|[learn2slither](https://github.com/mseong123/learn2slither) | Utilize Reinforcement Learning(Q-learning) - to train a snake agent to navigate the board learning to pick up as much food as possible whilst
+prioritizing staying alive | 3 weeks | ✅ |
 
 
 ## Web3 blockchain
