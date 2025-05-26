@@ -69,7 +69,7 @@ validation number: B8JEHTTJ5EBQ1XSE
 | 5 | [webserv](https://github.com/mseong123/webserv) | Building a webserver (with functionalities similar to NGINX) using c++  | 4 weeks | ✅ |
 | 6 | [ft_transcendence](https://github.com/mseong123/ft_transcendence_42) | Building a full stack web-based multiplayer 3D-PONG game  | 3 months | ✅ |
 
-## Python, Numpy, Matplotlib, Pandas, Scikit-Learn
+## Python, Java, Numpy, Matplotlib, Pandas, Scikit-Learn
 Currently enrolled in 42 Specialisation Program doing Machine Learning/AI. (Level 13.51)
 
 ### 42 specialisation projects:
@@ -82,6 +82,7 @@ Currently enrolled in 42 Specialisation Program doing Machine Learning/AI. (Leve
 |[multilayer-perceptron](https://github.com/mseong123/multilayer-perceptron) | Design and Train a Neural Network and Deep learning model to classify if a tumor is benign or malignant based on breast cancer dataset from Wisconsin. Project coded using Python from scratch without use of ML libraries or frameworks | 2 weeks | ✅ | 
 |[total-perspective-vortex](https://github.com/mseong123/total-perspective-vortex) | Implement a brain computer interface program using electroencephalogram (EEG) data. 1) data filtering and feature engineering (Fourier Transform for signal processing). 2) Dimensionality Reduction using Principal Component Analysis (PCA) 3) Data processing pipeline 4) Cross Kfold validation 5) Decision tree classifier implementation using Python from scratch without use of ML libraries or frameworks. | 7 weeks | ✅ | 
 |[learn2slither](https://github.com/mseong123/learn2slither) | Reinforcement Learning using Q-learning with neural network - Train a snake agent to navigate the board learning to pick up as much food as possible whilst prioritizing staying alive | 3 weeks | ✅ |
+|[avaj-launcher](https://github.com/mseong123/avaj-launcher) | Aircraft simulation program written in Java incorporating Unified Modeling Language (UML) and OOP design patterns | 1 week | ✅ |
 
 
 ## Web3 blockchain
